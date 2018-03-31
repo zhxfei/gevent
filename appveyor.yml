@@ -22,12 +22,6 @@ environment:
       PYTHON_ARCH: "64"
       PYTHON_EXE: python
 
-    - PYTHON: "C:\\Python36-x64"
-      PYTHON_VERSION: "3.6.x" # currently 3.6.0
-      PYTHON_ARCH: "64"
-      PYTHON_EXE: python
-      GEVENT_LOOP: libuv
-
     - PYTHON: "C:\\Python27-x64"
       PYTHON_VERSION: "2.7.x" # currently 2.7.13
       PYTHON_ARCH: "64"
